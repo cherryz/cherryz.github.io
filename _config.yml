@@ -42,7 +42,7 @@ timezone:      null
 title: cherryz's blog
 description: 我的技术博客
 keywords: Linux SBC OS Windows MacOSX ARM Raspberry Pi AVR Arduino
-url: https://cherryz.github.io/
+url: https://cherryz.github.io
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
