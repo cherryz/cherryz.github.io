@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 欢迎来到的我博客
+title: 欢迎来到我的博客
 category: "其它"
 ---
 
